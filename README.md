@@ -8,7 +8,7 @@ pip install -r requirements.txt
 
 
 # Steps to run the code
-python video2pdfslides.py <video_path>
+python video2pdfslides.py "C:\Users\ramas\Downloads"
 
 it will capture screenshots of unique frames and save it output folder...once screenshots are captured the program is paused and the user is asked to manually verify the screenshots and delete any duplicate images. Once this is done the program continues and creates a pdf out of the screenshots.
 
